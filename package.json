@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tryptophan/Rougebot/issues"
   },
-  "homepage": "https://github.com/Tryptophan/Rougebot#readme"
+  "homepage": "https://github.com/Tryptophan/Rougebot#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
 }
