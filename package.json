@@ -1,0 +1,19 @@
+{
+  "name": "rougebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tryptophan/Rougebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tryptophan/Rougebot/issues"
+  },
+  "homepage": "https://github.com/Tryptophan/Rougebot#readme"
+}
